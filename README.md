@@ -12,7 +12,7 @@
 - 💬 Ask me about **Codingame/Neovim**
 
 <h3 align="left">Connect with me:</h3>
-oussamaaithmed1@gmail.com
+<h4 oussamaaithmed1@gmail.com </h4>
 <p align="left">
 </p>
 
