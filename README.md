@@ -17,15 +17,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=oait-h-m&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=oait-h-m&theme=dracula&margin-w=10&margin-h=10" height="150" alt="trophy graph"  />
-</div>
-
----
-
 ### 🧠 A Bit About Me
 
 - 🎓 Currently pursuing a degree in **Software Engineering** at UM6P|1337, Benguerir.
