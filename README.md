@@ -17,17 +17,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,go,ts,rust" height="45" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,tailwind,graphql" height="45" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,aws" height="45" />
-</div>
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
