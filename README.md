@@ -1,49 +1,70 @@
-<h2 align="left">Hi 👋! My name is Oussama Ait Hmad and I'm a Software Engineering student from Morocco</h2>
+<h1 align="center">Hey 👋, I'm Oussama Ait Hmad</h1>
 
-###
+<p align="center">
+  <i>Software Engineering Student | Open Source Enthusiast | Lifelong Learner</i>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://www.linkedin.com/in/oait-h-m" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/oait-h-m" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+  </a>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,go,ts,rust" height="45" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,tailwind,graphql" height="45" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,aws" height="45" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=oait-h-m&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=oait-h-m&theme=dracula&margin-w=10&margin-h=10" height="150" alt="trophy graph"  />
 </div>
 
-###
+---
 
-<br clear="both">
+### 🧠 A Bit About Me
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+- 🎓 Currently pursuing a degree in **Software Engineering** at UM6P|1337, Benguerir.
+- 🚀 Passionate about **systems programming**, **Linux**, and **developer tools**.
+- 🧪 Projects: [Minishell](https://github.com/oait-h-m/minishell), [so_long](https://github.com/oait-h-m/so_long), and others.
+- 💬 Always learning — currently exploring Rust and system design patterns.
+- 🌍 Based in **Morocco**.
 
-###
+---
+
+### 🎮 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oait-h-m/oait-h-m/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oait-h-m/oait-h-m/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/oait-h-m/oait-h-m/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: oussamaaithmed1@gmail.com  
+- 📍 Location: Benguerir, Morocco  
+- 💻 GitHub: [@oait-h-m](https://github.com/oait-h-m)  
+- 🧾 LinkedIn: [@oait-h-m](https://www.linkedin.com/in/oait-h-m)
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
+
+---
