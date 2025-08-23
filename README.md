@@ -32,7 +32,7 @@
 
 ### 📫 Get in Touch
 
-- 📧 Email: oussamaaithmed1@gmail.com  
+- 📧 Email: oussamaaithmad@outlook.com  
 - 📍 Location: Benguerir, Morocco  
 - 💻 GitHub: [@oait-h-m](https://github.com/oait-h-m)  
 - 🧾 LinkedIn: [@oait-h-m](https://www.linkedin.com/in/oait-h-m)  
