@@ -24,7 +24,6 @@
 
 - 🎓 Currently pursuing a degree in **Software Engineering** at UM6P | 1337, Benguerir.
 - 🚀 Passionate about **systems programming**, **Linux**, and **developer tools**.
-- 🧪 Projects: [Minishell](https://github.com/oait-h-m/minishell), [so_long](https://github.com/oait-h-m/so_long), and others.
 - 💬 Always learning — currently exploring Rust and system design patterns.
 - 🌍 Based in **Morocco**.
 
